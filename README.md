@@ -4,8 +4,32 @@ A curated list of papers, code, and resources on world models for robotic policy
 
 ## World Model as Policy（Video-Generation / Image-Generation）
 
-- **[NeurIPS'24] VidMan** — *VidMan: Exploiting Implicit Dynamics from Video Diffusion Model for Effective Robot Manipulation*
+## Table of Contents
+- [World Model as Policy ](#world-models-as-policy)
+- [World Model as Simulator ](#world-models-as-simulator)
+- [World Model for Video Generation]](#world-models-for-gen)
+- [Benchmarks for Evaluation World-Model](#benchmarks-for-evaluation-world-model)
+- [Datasets](#datasets)
+
+---
+
+<a id="world-models-as-policy"></a>
+## World Moedl as Policy
+
+- **[NeurIPS'23] UniPi** — *Learning Universal Policies via Text-Guided Video Generation*
+- [![Paper](https://img.shields.io/badge/Paper-OpenReview-4B5D67.svg)](https://openreview.net/forum?id=bo8q5MRcwy)[![arXiv](https://img.shields.io/badge/arXiv-2302.00111-b31b1b.svg)](https://arxiv.org/abs/2302.00111)[![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://universal-policy.github.io/)
+
+- **[ICLR'24] GR-1** — *Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation*  
+  [![Paper](https://img.shields.io/badge/Paper-OpenReview-4B5D67.svg)](https://openreview.net/forum?id=NxoFmGgWC9)[![arXiv](https://img.shields.io/badge/arXiv-2312.13139-b31b1b.svg)](https://arxiv.org/abs/2312.13139)[![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/bytedance/GR-1)[![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://gr1-manipulation.github.io/)
+
+- **[arXiv'24.10] GR-2** — *GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation*  
+  [![arXiv](https://img.shields.io/badge/arXiv-2410.06158-b31b1b.svg)](https://arxiv.org/abs/2410.06158)[![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://gr2-manipulation.github.io/)
+
+- **[NeurIPS'24] VidMan** — *VidMan: Exploiting Implicit Dynamics from Video Diffusion Model for Effective Robot Manipulation*  
   [![Paper](https://img.shields.io/badge/Paper-OpenReview-4B5D67.svg)](https://openreview.net/forum?id=YbhHz0X2j5)[![arXiv](https://img.shields.io/badge/arXiv-2411.09153-b31b1b.svg)](https://arxiv.org/abs/2411.09153)[![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://jirufengyu.github.io/VidMan/)
+
+- **[ICML'25] VPP** — *Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations*  
+  [![Paper](https://img.shields.io/badge/Paper-OpenReview-4B5D67.svg)](https://openreview.net/forum?id=c0dhw1du33)[![arXiv](https://img.shields.io/badge/arXiv-2412.14803-b31b1b.svg)](https://arxiv.org/abs/2412.14803)[![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/roboterax/video-prediction-policy)[![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://video-prediction-policy.github.io/)
 
 - **[RSS'25] UVA** — *Unified Video Action Model*  
   [![Paper](https://img.shields.io/badge/Paper-RSS-4B5D67.svg)](https://www.roboticsproceedings.org/rss21/p074.pdf)[![arXiv](https://img.shields.io/badge/arXiv-2503.00200-b31b1b.svg)](https://arxiv.org/abs/2503.00200)[![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/ShuangLI59/unified_video_action)
