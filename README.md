@@ -156,6 +156,9 @@ A curated list of papers, code, and resources on world models for robotic policy
 ---
 
 ### World Model for Policy Evaluation
+- **[arXiv'25.05] WorldEval** — *WorldEval: World Model as Real-World Robot Policies Evaluator*  
+  [![arXiv](https://img.shields.io/badge/arXiv-2505.19017-b31b1b.svg)](https://arxiv.org/abs/2505.19017)[![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/liyaxuanliyaxuan/Worldeval)[![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://worldeval.github.io/)
+
 
 - **[arXiv'25.06] Evaluating Robot Policies in a World Model**  
   [![arXiv](https://img.shields.io/badge/arXiv-2506.00613-b31b1b.svg)](https://arxiv.org/abs/2506.00613)  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/world-model-eval/world-model-eval)
