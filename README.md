@@ -2,7 +2,6 @@
 
 A curated list of papers, code, and resources on world models for robotic policy learning.
 
-The repo is collected by [NTU MARS Lab](https://github.com/NTUMARS)
 
 ## Table of Contents
 - [World Model for Policy ](#world-models-as-policy)
@@ -310,7 +309,6 @@ If you find this repository useful, please consider citing the **original papers
 ```bibtex
 @misc{awesome_world_models_for_robot_manipulation_2026,
   title        = {Awesome World Models for Robotic Policy},
-  author       = {NTU MARS Lab},
   year         = {2026},
   howpublished = {\url{https://github.com/hbhalpha/Awesome-World-Model-for-Robotics-Policy}},
 }
