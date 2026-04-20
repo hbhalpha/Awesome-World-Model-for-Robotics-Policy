@@ -134,6 +134,9 @@ A curated list of papers, code, and resources on world models for robotic policy
 - **[ICLR'24] GR-1** — *Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation*  
   [![Paper](https://img.shields.io/badge/Paper-OpenReview-4B5D67.svg)](https://openreview.net/forum?id=NxoFmGgWC9) [![arXiv](https://img.shields.io/badge/arXiv-2312.13139-b31b1b.svg)](https://arxiv.org/abs/2312.13139) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/bytedance/GR-1) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://gr1-manipulation.github.io/)
 
+- **[arXiv'24.10] GR-2** — *GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation*  
+  [![arXiv](https://img.shields.io/badge/arXiv-2410.06158-b31b1b.svg)](https://arxiv.org/abs/2410.06158) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://gr2-manipulation.github.io/)
+  
 - **[ICML'25] UP-VLA** — *A Unified Understanding and Prediction Model for Embodied Agent*  
   [![arXiv](https://img.shields.io/badge/arXiv-2501.18867-b31b1b.svg)](https://arxiv.org/abs/2501.18867)
 
@@ -189,20 +192,6 @@ A curated list of papers, code, and resources on world models for robotic policy
 
 ---
 
-### Other World-Model-as-Policy Works
-
-> Works that span multiple paradigms or do not fit neatly into a single category above.
-
-- **[arXiv'24.10] GR-2** — *GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2410.06158-b31b1b.svg)](https://arxiv.org/abs/2410.06158) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://gr2-manipulation.github.io/)
-
-- **[ICLR'26] Horizon Imagination** — *Horizon Imagination: Efficient On-Policy Rollout in Diffusion World Models*  
-  [![Paper](https://img.shields.io/badge/Paper-OpenReview-4B5D67.svg)](https://openreview.net/forum?id=Obefq4k8iG) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/leor-c/horizon-imagination)
-
-- **[arXiv'26.02] World-VLA-Loop** — *World-VLA-Loop: Closed-Loop Learning of Video World Model and VLA Policy*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2602.06508-b31b1b.svg)](https://arxiv.org/abs/2602.06508) [![GitHub](https://img.shields.io/badge/GitHub-repo-181717.svg?logo=github)](https://github.com/showlab/World-VLA-Loop) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://showlab.github.io/World-VLA-Loop/)
-
----
 
 <a id="world-models-as-simulator"></a>
 ## World Model as Simulator
@@ -273,6 +262,10 @@ A curated list of papers, code, and resources on world models for robotic policy
 - **[ICLR'26] WorldGym** — *WorldGym: World Model as An Environment for Policy Evaluation*  
    [![Paper](https://img.shields.io/badge/Paper-OpenReview-4B5D67.svg)](https://openreview.net/forum?id=hidBHy1CAw) [![arXiv](https://img.shields.io/badge/arXiv-2506.00613-b31b1b.svg)](https://arxiv.org/abs/2506.00613) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/world-model-eval/world-model-eval) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://world-model-eval.github.io/abstract)
 
+
+- **[ICLR'26] Horizon Imagination** — *Horizon Imagination: Efficient On-Policy Rollout in Diffusion World Models*  
+  [![Paper](https://img.shields.io/badge/Paper-OpenReview-4B5D67.svg)](https://openreview.net/forum?id=Obefq4k8iG) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/leor-c/horizon-imagination)
+  
 - **[arXiv'25.05] WorldEval** — *WorldEval: World Model as Real-World Robot Policies Evaluator*  
    [![arXiv](https://img.shields.io/badge/arXiv-2505.19017-b31b1b.svg)](https://arxiv.org/abs/2505.19017) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/liyaxuanliyaxuan/Worldeval) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://worldeval.github.io/)
 
