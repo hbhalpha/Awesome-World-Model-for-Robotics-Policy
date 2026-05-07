@@ -2,6 +2,7 @@
 
 A curated list of papers, code, and resources on world models for robotic policy learning.
 
+&nbsp; 📄 <a href="https://arxiv.org/abs/2605.00080">arXiv</a>&nbsp;&nbsp;
 
 ## Table of Contents
 - [World Model as Policy](#world-models-as-policy)
@@ -438,9 +439,13 @@ A curated list of papers, code, and resources on world models for robotic policy
 If you find this repository useful, please consider citing the **original papers** listed above and/or citing this collection:
 
 ```bibtex
-@misc{awesome_world_models_for_robot_manipulation_2026,
-  title        = {Awesome World Models for Robotic Policy},
-  year         = {2026},
-  howpublished = {\url{https://github.com/hbhalpha/Awesome-World-Model-for-Robotics-Policy}},
+@misc{hou2026worldmodelrobotlearning,
+  title         = {World Model for Robot Learning: A Comprehensive Survey},
+  author        = {Bohan Hou and Gen Li and Jindou Jia and Tuo An and Xinying Guo and Sicong Leng and Haoran Geng and Yanjie Ze and Tatsuya Harada and Philip Torr and Oier Mees and Marc Pollefeys and Zhuang Liu and Jiajun Wu and Pieter Abbeel and Jitendra Malik and Yilun Du and Jianfei Yang},
+  year          = {2026},
+  eprint        = {2605.00080},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.RO},
+  url           = {https://arxiv.org/abs/2605.00080}
 }
 ```
