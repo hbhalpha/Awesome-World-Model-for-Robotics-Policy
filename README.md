@@ -4,7 +4,7 @@ A curated list of papers, code, and resources on world models for robotic policy
 
 ## 📰 News
 
-* **[2026.02.17]**  🔥🔥 Release our Technical Report on <a href="https://arxiv.org/abs/2605.00080">arXiv </a> !!
+* **[2026.05.04]**  🔥🔥 Release our Technical Report on <a href="https://arxiv.org/abs/2605.00080">arXiv </a> !!
 
   
 ## Table of Contents
