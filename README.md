@@ -37,6 +37,18 @@ A curated list of papers, code, and resources on world models for robotic policy
 
 > Inverse Dynamics Policies: first predict future visual trajectories, then use an inverse dynamics model to recover actions. Decoupled predict-then-act pipeline.
 
+#### Early Subgoal-Image Instantiations
+
+> Earlier instantiations leveraged image-editing diffusion models to predict subgoals for a goal-conditioned policy to follow.
+
+- **[arXiv'23.10] SuSIE** — *Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models*  
+  [![arXiv](https://img.shields.io/badge/arXiv-2310.10639-b31b1b.svg)](https://arxiv.org/abs/2310.10639)
+
+- **[ICRA'25] GHIL-Glue** — *GHIL-Glue: Hierarchical Control with Filtered Subgoal Images*  
+  [![Paper](https://img.shields.io/badge/Paper-ICRA-4B5D67.svg)](https://ieeexplore.ieee.org/document/11128025) [![arXiv](https://img.shields.io/badge/arXiv-2410.20018-b31b1b.svg)](https://arxiv.org/abs/2410.20018
+  
+#### Video-IDM Policies
+
 - **[NeurIPS'23] UniPi** — *Learning Universal Policies via Text-Guided Video Generation*  
   [![Paper](https://img.shields.io/badge/Paper-OpenReview-4B5D67.svg)](https://openreview.net/forum?id=bo8q5MRcwy) [![arXiv](https://img.shields.io/badge/arXiv-2302.00111-b31b1b.svg)](https://arxiv.org/abs/2302.00111) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://universal-policy.github.io/)
 
@@ -135,15 +147,7 @@ A curated list of papers, code, and resources on world models for robotic policy
 
 > Expert World-Model Backbones: video and action experts remain separated, interacting through shared attention / cross-attention / MoT fusion.
 
-#### Early Subgoal-Image Instantiations
 
-> Earlier instantiations leveraged image-editing diffusion models to predict subgoals for a goal-conditioned policy to follow.
-
-- **[arXiv'23.10] SuSIE** — *Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2310.10639-b31b1b.svg)](https://arxiv.org/abs/2310.10639)
-
-- **[ICRA'25] GHIL-Glue** — *GHIL-Glue: Hierarchical Control with Filtered Subgoal Images*  
-  [![Paper](https://img.shields.io/badge/Paper-ICRA-4B5D67.svg)](https://ieeexplore.ieee.org/document/11128025) [![arXiv](https://img.shields.io/badge/arXiv-2410.20018-b31b1b.svg)](https://arxiv.org/abs/2410.20018)
 
 #### Expert-Coupled / MoT Designs
 
