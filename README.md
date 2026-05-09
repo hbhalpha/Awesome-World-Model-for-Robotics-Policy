@@ -300,6 +300,12 @@ A curated list of papers, code, and resources on world models for robotic policy
 - **[arXiv'26.03] PlayWorld** — *Learning Robot World Models from Autonomous Play*  
   [![arXiv](https://img.shields.io/badge/arXiv-2603.09030-b31b1b.svg)](https://arxiv.org/abs/2603.09030)
 
+- **[arXiv'26.03] VLA-MBPO** — *Towards Practical World Model-based Reinforcement Learning for Vision-Language-Action Models*  
+  [![arXiv](https://img.shields.io/badge/arXiv-2603.20607-b31b1b.svg)](https://arxiv.org/abs/2603.20607)
+
+- **[arXiv'26.04] ViVa** — *ViVa: A Video-Generative Value Model for Robot Reinforcement Learning*  
+  [![arXiv](https://img.shields.io/badge/arXiv-2604.08168-b31b1b.svg)](https://arxiv.org/abs/2604.08168) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://viva-value-model.github.io/)
+
 <a id="wm-for-eval"></a>
 
 ### World Model for Evaluation
@@ -336,6 +342,12 @@ A curated list of papers, code, and resources on world models for robotic policy
 
 - **[arXiv'26.03] V-JEPA 2.1** — *Unlocking Dense Features in Video Self-Supervised Learning*  
   [![arXiv](https://img.shields.io/badge/arXiv-2603.14482-b31b1b.svg)](https://arxiv.org/abs/2603.14482)
+
+- **[arXiv'26.04] dWorldEval** — *dWorldEval: Scalable Robotic Policy Evaluation via Discrete Diffusion World Model*  
+  [![arXiv](https://img.shields.io/badge/arXiv-2604.22152-b31b1b.svg)](https://arxiv.org/abs/2604.22152) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://dworldeval.github.io/)
+
+- **[arXiv'26.05] FFDC-WAM** — *When to Trust Imagination: Adaptive Action Execution for World Action Models*  
+  [![arXiv](https://img.shields.io/badge/arXiv-2605.06222-b31b1b.svg)](https://arxiv.org/abs/2605.06222)
 
 ---
 
@@ -419,6 +431,21 @@ A curated list of papers, code, and resources on world models for robotic policy
 
 - **[arXiv'26.03] ABot-PhysWorld** — *Interactive World Foundation Model for Robotic Manipulation with Physics Alignment*  
   [![arXiv](https://img.shields.io/badge/arXiv-2603.23376-b31b1b.svg)](https://arxiv.org/abs/2603.23376)
+
+- **[arXiv'26.03] Kinema4D** — *Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation*  
+  [![arXiv](https://img.shields.io/badge/arXiv-2603.16669-b31b1b.svg)](https://arxiv.org/abs/2603.16669) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/mutianxu/Kinema4D)
+
+- **[arXiv'26.03] Persistent Robot World Models** — *Persistent Robot World Models: Stabilizing Multi-Step Rollouts via Reinforcement Learning*  
+  [![arXiv](https://img.shields.io/badge/arXiv-2603.25685-b31b1b.svg)](https://arxiv.org/abs/2603.25685) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/Jai2500/PersistWorld)
+
+- **[arXiv'26.04] Cortex 2.0** — *Cortex 2.0: Grounding World Models in Real-World Industrial Deployment*  
+  [![arXiv](https://img.shields.io/badge/arXiv-2604.20246-b31b1b.svg)](https://arxiv.org/abs/2604.20246)
+
+- **[arXiv'26.04] X-WAM** — *Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising*  
+  [![arXiv](https://img.shields.io/badge/arXiv-2604.26694-b31b1b.svg)](https://arxiv.org/abs/2604.26694) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://sharinka0715.github.io/X-WAM/)
+
+- **[arXiv'26.05] EA-WM** — *EA-WM: Event-Aware Generative World Model with Structured Kinematic-to-Visual Action Fields*  
+  [![arXiv](https://img.shields.io/badge/arXiv-2605.06192-b31b1b.svg)](https://arxiv.org/abs/2605.06192)
 
 ---
 
